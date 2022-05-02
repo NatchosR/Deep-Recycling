@@ -1,0 +1,3 @@
+[submodule "TACO"]
+	path = TACO
+	url = https://github.com/pedropro/TACO.git
