@@ -1,8 +1,12 @@
+#personal_script
+personal_script/*
+
 # data
 dataset-resized/*
 
-# TACO repository (only for inspiration purposes)
+#repository (only for inspiration purposes)
 TACO/*
+Mask_RCNN/*
 
 
 # Byte-compiled / optimized / DLL files
