@@ -1,7 +1,7 @@
 # Intelligent-Recycling-Algorithm
 *Academic Project - Deep Learning in Vision*
 
-The goal of this project is to create an algorithm that will recognize the different type of waste so it can be recycled correctly. This project has been inspired to help/imitate @OceanCleanUp and @Recycleye. In a first place we will use object detection algorithm, such as Mask RCNN architecture, to detect and classify trash images, use the model and apply to our custom dataset. Different layers of the algorythm must be retrained in order to get our results.
+The goal of this project is to create an algorithm that will recognize the different type of waste so it can be recycled correctly. This project has been inspired to help/imitate [@OceanCleanUp](https://theoceancleanup.com/) and [@Recycleye](https://recycleye.com/). In a first place we will use object detection algorithm, such as Mask RCNN architecture, to detect and classify trash images, use the model and apply to our custom dataset. Different layers of the algorythm must be retrained in order to get our results.
 
 ## Objective: 
 
