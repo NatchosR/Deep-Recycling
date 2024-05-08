@@ -48,4 +48,3 @@ Implement new classes for different trash category. And potentially, new evaluat
 ### 3. Train the Network 
 (...)
 
-> *Due to the complexity of tuning MaskRCNN algorithm on the Trash dataset, we reduced the scope of our project to Simple_Trash, you can find (here)[https://github.com/NatchosR/SimpleTrash]*
