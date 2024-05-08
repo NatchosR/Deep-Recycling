@@ -5,12 +5,14 @@ The goal of this project is to create an algorithm that will recognize the diffe
 
 ## Objective: 
 
-![output2_copy.png](output2_copy.png)
+<img src="https://github.com/NatchosR/Deep-Recycling/blob/main/images/output2_copy.png" width=50% height=20%>
+
 Picture of trash detected using TACO's version of MaskRCNN
 
 ## Result:
 
-![bottles.png](bottles.png)
+<img src="https://github.com/NatchosR/Deep-Recycling/blob/main/images/bottles.png" width=70% height=70%>
+
 Picture of trash detected in my living room using our simplified version [Simple_Trash](https://github.com/NatchosR/SimpleTrash).
 > *Note: Due to the complexity of tuning MaskRCNN algorithm on the TACO dataset, we reduced the scope of our project to Simple_Trash, you can find [here](https://github.com/NatchosR/SimpleTrash). The objective is similar, except that we reduce the number of class, to only detect 'Bottles'. This project was 3 ECTS credit.*
 ## References:
